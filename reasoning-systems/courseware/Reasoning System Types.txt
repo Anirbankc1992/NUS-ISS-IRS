@@ -1,0 +1,20 @@
+Problem Solving Task Types
+
+	 Analytic Tasks - Techniques
+          Heuristic Business Rules
+	  
+	Synthetic Tasks		
+	  Uninformed (brute force / blind) Search
+	  Informed (heuristic) Search
+	  Genetic Algorithms
+	  
+
+	UNINFORMED SEARCH TECHNIQUES
+
+	  Depth First Search (DFS)
+	  Breadth First Search (BFS)
+
+          INFORMED SEARCH TECHNIQUES 
+	  Hill Climbing Search (HC)
+          A Star Search (A*)
+	  Tabu Search (TS)
